@@ -1,6 +1,12 @@
-#coordinator
-https://raw.githubusercontent.com/Tarik2142/devHost/main/coordinator_20220219.bin
-Release notes here
-#router
-url here
-Release notes here
+{
+	"coordinator":{
+		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/coordinator_20220219.bin",
+		"rev":"20220219",
+		"notes":"Fix Touchlink crash\nSimpleLink SDK 5.40.00.40"
+	},
+	"router":{
+		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/router_20221102.bin",
+		"rev":"20221102",
+		"notes":"Allow to set transmit power\nFix directly connected Xiaomi devices disconnecting\nSimpleLink SDK 6.30.00.84"
+	}
+}
