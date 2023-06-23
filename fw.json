@@ -1,8 +1,8 @@
 {
 	"coordinator":{
 		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/zigbee_ncp-ot_rcp-uart.gbl",
-		"rev":"20220219",
-		"notes":"test"
+		"rev":"zigbee_ncp-ot_rcp-uart",
+		"notes":"zigbee_ncp-ot_rcp-uart"
 	},
 	"router":{
 		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/router_20221102.bin",
