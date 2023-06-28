@@ -1,12 +1,14 @@
 {
-	"coordinator":{
-		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/zigbee_ncp-ot_rcp-uart.gbl",
-		"rev":"zigbee_ncp-ot_rcp-uart",
-		"notes":"zigbee_ncp-ot_rcp-uart"
-	},
-	"router":{
-		"link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/router_20221102.bin",
-		"rev":"20221102",
-		"notes":"Allow to set transmit power\nFix directly connected Xiaomi devices disconnecting\nSimpleLink SDK 6.30.00.84"
-	}
+    "fwList": [
+        {
+            "link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/ncp-uart-hw.gbl",
+            "buttonText":"Zigbee firmware",
+            "notes":"gecko_sdk_4.2.1"
+        },
+        {
+            "link":"https://raw.githubusercontent.com/Tarik2142/devHost/main/zigbee_ncp-ot_rcp-uart.gbl",
+            "buttonText":"Zigbee + Thread firmware",
+            "notes":"Allows you to use Zigbee and Thread networks at the same time.\nRequires additional Homeassistant setup, setup information: <link to manual page here>"
+        }
+    ]
 }
