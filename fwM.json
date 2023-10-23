@@ -5,6 +5,12 @@
 			"rev": "0.1",
 			"notes": "First release",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/ncp-uart-hw.gbl"
+		},
+		{
+			"type": "Coordinator",
+			"rev": "0.1",
+			"notes": "For 768",
+			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/768.gbl"
 		}
 	]
 }
