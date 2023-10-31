@@ -11,6 +11,12 @@
 			"rev": "0.1 | 768",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/768.gbl"
+		},
+		{
+			"type": "Coordinator",
+			"rev": "0.2",
+			"notes": "For 768",
+			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06M_768_0.2.gbl"
 		}
 	]
 }
