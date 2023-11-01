@@ -2,19 +2,19 @@
 	"list": [
 		{
 			"type": "Coordinator",
-			"rev": "0.1",
-			"notes": "First release",
+			"rev": "20231020",
+			"notes": "For 1024",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/ncp-uart-hw.gbl"
 		},
 		{
 			"type": "Coordinator",
-			"rev": "0.1 | 768",
+			"rev": "20231020",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/768.gbl"
 		},
 		{
 			"type": "Coordinator",
-			"rev": "0.2",
+			"rev": "20231030",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06M_768_0.2.gbl"
 		}
