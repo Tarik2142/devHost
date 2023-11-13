@@ -3,12 +3,6 @@
 		{
 			"type": "0",
 			"rev": "20231020",
-			"notes": "For 1024",
-			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/ncp-uart-hw.gbl"
-		},
-		{
-			"type": "0",
-			"rev": "20231020",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/768.gbl"
 		},
