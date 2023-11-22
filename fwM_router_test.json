@@ -11,6 +11,18 @@
 			"rev": "20231030",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06M_768_0.2.gbl"
+		},
+		{
+			"type": "1",
+			"rev": "0",
+			"notes": "Router 1",
+			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06MR1.gbl"
+		},
+		{
+			"type": "1",
+			"rev": "0",
+			"notes": "Router 2",
+			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06MR2.gbl"
 		}
 	],
 	"0": [
