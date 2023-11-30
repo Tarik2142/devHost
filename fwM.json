@@ -11,12 +11,6 @@
 			"rev": "20231030",
 			"notes": "For 768",
 			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06M_768_0.2.gbl"
-		},
-		{
-			"type": "1",
-			"rev": "20231130",
-			"notes": "Test router firmware, first release",
-			"link": "https://raw.githubusercontent.com/Tarik2142/devHost/main/06M_router.gbl"
 		}
 	],
 	"0": [
